@@ -14,7 +14,7 @@ I'm an [ARISE fellow](https://www.embl.org/about/info/arise/) hosted in the [Dat
 ## 🌟 Highlighted Projects
 
 - **[Depictio](https://github.com/weber8thomas/depictio)** - My main ongoing project.
-- **[Mosaicator Pipeline v2](https://github.com/friendsofstrandseq/mosaicatcher-pipeline)** - Recently updated and published the version 2 of this impactful bioinformatics pipeline.
+- **[Mosaicator Pipeline v2](https://github.com/friendsofstrandseq/mosaicatcher-pipeline)** - Recently updated and published the version 2. Structural variant calling from single-cell Strand-seq data using Snakemake. 
 
 ## 📫 How to Reach Me
 
