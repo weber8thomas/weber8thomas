@@ -1,6 +1,6 @@
 # Hello, I'm Thomas Weber! 👋
 
-I'm an ARISE fellow hosted in the Data Science Centre of the European Molecular Biology Laboratory (EMBL) in Heidelberg. I have a PhD in bioinformatics and I'm passionate about combining advanced data science workflows and technologies to drive research and innovation.
+I'm an [ARISE fellow](https://www.embl.org/about/info/arise/) hosted in the [Data Science Centre](https://www.embl.org/about/programme/data-sciences-plans/) of the European Molecular Biology Laboratory (EMBL) in Heidelberg. I have a PhD in bioinformatics and I'm passionate about combining advanced data science workflows and technologies to drive research and innovation.
 
 ## 👨‍💻 Technologies & Interests
 
