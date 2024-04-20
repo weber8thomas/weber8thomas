@@ -24,7 +24,7 @@ I'm an [ARISE fellow](https://www.embl.org/about/info/arise/) hosted in the [Dat
 
 ## ⚡ GitHub Stats
 
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=weber8thomas&show_icons=true&theme=radical)
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=weber8thomas&show_icons=true)
 
 ## 🛡️ Badges
 
