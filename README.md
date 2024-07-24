@@ -22,12 +22,6 @@ I'm an [ARISE fellow](https://www.embl.org/about/info/arise/) hosted in the [Dat
 </p>
 
 
-## 📫 How to Reach Me
-
-- **Twitter**: [weber8thomas](https://twitter.com/weber8thomas)
-- **LinkedIn**: [Thomas Weber](https://www.linkedin.com/in/weber-thomas/)
-- **Email**: [thomas.weber@embl.de](mailto:thomas.weber@embl.de)
-
 ## ⚡ GitHub Stats
 
 
@@ -38,7 +32,17 @@ I'm an [ARISE fellow](https://www.embl.org/about/info/arise/) hosted in the [Dat
 
 </p>
 
+
+
 ## 🛡️ Badges
 
 ![GitHub followers](https://img.shields.io/github/followers/weber8thomas?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/weber8thomas?style=social)
+
+## 📫 How to Reach Me
+
+- **Twitter**: [weber8thomas](https://twitter.com/weber8thomas)
+- **LinkedIn**: [Thomas Weber](https://www.linkedin.com/in/weber-thomas/)
+- **Email**: [thomas.weber@embl.de](mailto:thomas.weber@embl.de)
+
+
