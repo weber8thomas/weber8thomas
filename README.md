@@ -13,8 +13,14 @@ I'm an [ARISE fellow](https://www.embl.org/about/info/arise/) hosted in the [Dat
 
 ## 🌟 Highlighted Projects
 
-- **[Depictio](https://github.com/weber8thomas/depictio)** - My main ongoing project.
-- **[Mosaicator Pipeline v2](https://github.com/friendsofstrandseq/mosaicatcher-pipeline)** - Recently updated and published the version 2. Structural variant calling from single-cell Strand-seq data using Snakemake. 
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=depictio&repo=depictio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=friendsofstrandseq&repo=mosaicatcher-pipeline">
+
+</p>
+
 
 ## 📫 How to Reach Me
 
@@ -24,7 +30,13 @@ I'm an [ARISE fellow](https://www.embl.org/about/info/arise/) hosted in the [Dat
 
 ## ⚡ GitHub Stats
 
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=weber8thomas&show_icons=true)
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=weber8thomas&count_private=true&show_icons=true&hide_title=True&rank_icon=default">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weber8thomas&hide=html,jupyter%20notebook&layout=compact">
+
+</p>
 
 ## 🛡️ Badges
 
