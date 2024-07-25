@@ -15,11 +15,14 @@ I'm an [ARISE fellow](https://www.embl.org/about/info/arise/) hosted in the [Dat
 
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=depictio&repo=depictio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=friendsofstrandseq&repo=mosaicatcher-pipeline">
-
+  <a href="https://github.com/depictio/depictio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=depictio&repo=depictio" alt="depictio repository">
+  </a>
+  <a href="https://github.com/friendsofstrandseq/mosaicatcher-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=friendsofstrandseq&repo=mosaicatcher-pipeline" alt="mosaicatcher-pipeline repository">
+  </a>
 </p>
+
 
 
 ## ⚡ GitHub Stats
