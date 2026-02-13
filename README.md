@@ -11,29 +11,32 @@ I'm an [ARISE fellow](https://www.embl.org/about/info/arise/) hosted in the [Dat
 - **Self-Hosted Tools**: Managing personal server with Plex, Immich, Bitwarden, OctoPi, NPM, Glances, Authentik, ...
 - **Exploring New Technologies**: Currently diving into no-code tools like n8n, and LLM technologies including LangChain and Ollama
 
-## 🌟 Highlighted Projects
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![depictio](https://img.shields.io/badge/Project-depictio-blue?style=for-the-badge&logo=github)](https://github.com/depictio/depictio)
+[![mosaicatcher-pipeline](https://img.shields.io/badge/Project-mosaicatcher--pipeline-green?style=for-the-badge&logo=github)](https://github.com/friendsofstrandseq/mosaicatcher-pipeline)
+
+**[depictio](https://github.com/depictio/depictio)** - Interactive data visualization platform
+**[mosaicatcher-pipeline](https://github.com/friendsofstrandseq/mosaicatcher-pipeline)** - Bioinformatics workflow for strand-seq analysis
+
+</div>
 
 
-<p align="center">
-  <a href="https://github.com/depictio/depictio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=depictio&repo=depictio" alt="depictio repository">
-  </a>
-  <a href="https://github.com/friendsofstrandseq/mosaicatcher-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=friendsofstrandseq&repo=mosaicatcher-pipeline" alt="mosaicatcher-pipeline repository">
-  </a>
-</p>
 
+## ⚡ GitHub Activity
 
+<div align="center">
 
-## ⚡ GitHub Stats
+### Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weber8thomas/weber8thomas/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weber8thomas/weber8thomas/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/weber8thomas/weber8thomas/output/github-snake.svg" />
+</picture>
 
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=weber8thomas&count_private=true&show_icons=true&hide_title=True&rank_icon=default">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weber8thomas&hide=html,jupyter%20notebook&layout=compact">
-
-</p>
+</div>
 
 
 
