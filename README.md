@@ -15,7 +15,7 @@ I'm an [ARISE fellow](https://www.embl.org/about/info/arise/) hosted in the [Dat
 
 <div align="center">
 
-### 🎨 depictio
+### 🎨 Depictio
 [![GitHub](https://img.shields.io/badge/GitHub-depictio-181717?style=for-the-badge&logo=github)](https://github.com/depictio/depictio)
 ![Stars](https://img.shields.io/github/stars/depictio/depictio?style=flat-square)
 ![Language](https://img.shields.io/github/languages/top/depictio/depictio?style=flat-square)
