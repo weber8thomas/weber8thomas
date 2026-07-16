@@ -2,19 +2,6 @@
 
 I'm a **Scientific Workflows Developer** in the [Data Science Centre](https://www.embl.org/about/programme/data-sciences-plans/) of the European Molecular Biology Laboratory (EMBL) in Heidelberg, and a former [ARISE fellow](https://www.embl.org/about/info/arise/). I hold a PhD in bioinformatics and build reproducible, scalable data-analysis workflows and interactive tools to drive research and innovation. I lead development at [**depictio**](https://github.com/depictio) (interactive bioinformatics dashboards) and run a homelab-first setup (with local-first AI as the bonus) under [**theagentattic**](https://github.com/theagentattic).
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Snakemake-039475?style=for-the-badge&logo=snakemake&logoColor=white" alt="Snakemake" />
-  <img src="https://img.shields.io/badge/Nextflow-0DC09D?style=for-the-badge&logo=nextflow&logoColor=white" alt="Nextflow" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Dash" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
 ## 👨‍💻 Technologies & Interests
 
 - **Scientific Workflows**: Designing reproducible, portable pipelines with Snakemake, Nextflow, and Galaxy
